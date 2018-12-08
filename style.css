@@ -1,0 +1,115 @@
+/* CSS files add styling rules to your content */
+
+body{font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  padding-bottom: 6em;
+  background-image: url(https://assets.visitphilly.com/wp-content/uploads/2018/02/Philadelphia-Skyline-fairmount-B-Krist-GPTMC-2200x1237.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center; 
+  overflow: auto;}
+
+h1{padding: 10px;
+  font-family: "Helvetica Neue", cursive, sans-serif;
+  font-weight: bold;
+  color: #EAC6A6;
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+  font-size: 90px;
+ text-align: center;
+opacity: 0.9;}
+
+h2{color: #C00101;
+  padding:5px;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size:10px;
+  text-align:center;
+  opacity: 0.9;
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;}
+
+h3{color:white;
+  padding:20px;
+  font-size: 45px;
+  font-weight:bold;
+  text-align: left;
+font-family:Impact, Charcoal, sans-serif;
+  text-shadow:
+   -3px -3px 0 #000,  
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+     3px 3px 0 #000;
+      padding-left: 2em;}
+
+logo{color: #FF8000;
+  font-family:"Helvetica Neue", cursive, sans-serif;
+  font-size:40px;
+  text-align:center;
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+  margin-left:1em}
+
+navlogo{color: white;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size:20px;
+  text-align:center;
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;}
+
+ text{font-size:30px;
+   color: white;
+   font-family:"Trebuchet MS", Helvetica, sans-serif;
+   text-align:left;
+   text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+   margin-left: 20px;
+   display: block;
+   text-indent: 30px; 
+   padding-right:20px;}
+
+.cardbox{float:right;}
+p{font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;}
+
+span{font-family: Georgia, Times, "Times New Roman", serif;
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;}
+
+.rectangle {background-color: rgba(245, 254, 227,0.2);
+  position: relative;}
+
+.img-right {float:right;}
+
+.img-pad{padding:50px;}
+
+.trans{opacity:0;}
+
+.img-left {float:left;}
+
+.imgw{height:500px;}
+
+.drectangle {background-color: rgba(50, 50, 50,0.4);
+  position: relative;}
+
+.imgh{width:auto;}
+
+img{height:auto;
+  width: 350px}
